@@ -20,23 +20,4 @@ How do I run the project's automated tests?
 1. Create a project in [Google Cloud Console](https://cloud.google.com/console)
 1. edit ...**/webapp/WEB-INFappengine.web.xml** and change **your-app-id**
 1. `mvn clean appengine:update`
-
-<!---
-## Troubleshooting & useful tools
-
-### Examples of common tasks
-
-e.g.
-* How to make curl requests while authenticated via oauth.
-* How to monitor background jobs.
-* How to run the app through a proxy.
- -->
-
-## Contributing changes
-
-* See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## Licensing
-
-* See [LICENSE](LICENSE)
+reference https://cloud.google.com/appengine/docs/java/gettingstarted/creating-guestbook
